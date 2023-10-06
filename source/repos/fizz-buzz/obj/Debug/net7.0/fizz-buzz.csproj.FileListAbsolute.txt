@@ -1,0 +1,14 @@
+C:\Users\MelihÖcal\source\repos\fizz-buzz\bin\Debug\net7.0\fizz-buzz.exe
+C:\Users\MelihÖcal\source\repos\fizz-buzz\bin\Debug\net7.0\fizz-buzz.deps.json
+C:\Users\MelihÖcal\source\repos\fizz-buzz\bin\Debug\net7.0\fizz-buzz.runtimeconfig.json
+C:\Users\MelihÖcal\source\repos\fizz-buzz\bin\Debug\net7.0\fizz-buzz.dll
+C:\Users\MelihÖcal\source\repos\fizz-buzz\bin\Debug\net7.0\fizz-buzz.pdb
+C:\Users\MelihÖcal\source\repos\fizz-buzz\obj\Debug\net7.0\fizz-buzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MelihÖcal\source\repos\fizz-buzz\obj\Debug\net7.0\fizz-buzz.AssemblyInfoInputs.cache
+C:\Users\MelihÖcal\source\repos\fizz-buzz\obj\Debug\net7.0\fizz-buzz.AssemblyInfo.cs
+C:\Users\MelihÖcal\source\repos\fizz-buzz\obj\Debug\net7.0\fizz-buzz.csproj.CoreCompileInputs.cache
+C:\Users\MelihÖcal\source\repos\fizz-buzz\obj\Debug\net7.0\fizz-buzz.dll
+C:\Users\MelihÖcal\source\repos\fizz-buzz\obj\Debug\net7.0\refint\fizz-buzz.dll
+C:\Users\MelihÖcal\source\repos\fizz-buzz\obj\Debug\net7.0\fizz-buzz.pdb
+C:\Users\MelihÖcal\source\repos\fizz-buzz\obj\Debug\net7.0\fizz-buzz.genruntimeconfig.cache
+C:\Users\MelihÖcal\source\repos\fizz-buzz\obj\Debug\net7.0\ref\fizz-buzz.dll

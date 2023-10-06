@@ -1,0 +1,14 @@
+C:\Users\MelihÖcal\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\net7.0\ConsoleApp34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MelihÖcal\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\net7.0\ConsoleApp34.AssemblyInfoInputs.cache
+C:\Users\MelihÖcal\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\net7.0\ConsoleApp34.AssemblyInfo.cs
+C:\Users\MelihÖcal\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\net7.0\ConsoleApp34.csproj.CoreCompileInputs.cache
+C:\Users\MelihÖcal\source\repos\ConsoleApp34\ConsoleApp34\bin\Debug\net7.0\ConsoleApp34.exe
+C:\Users\MelihÖcal\source\repos\ConsoleApp34\ConsoleApp34\bin\Debug\net7.0\ConsoleApp34.deps.json
+C:\Users\MelihÖcal\source\repos\ConsoleApp34\ConsoleApp34\bin\Debug\net7.0\ConsoleApp34.runtimeconfig.json
+C:\Users\MelihÖcal\source\repos\ConsoleApp34\ConsoleApp34\bin\Debug\net7.0\ConsoleApp34.dll
+C:\Users\MelihÖcal\source\repos\ConsoleApp34\ConsoleApp34\bin\Debug\net7.0\ConsoleApp34.pdb
+C:\Users\MelihÖcal\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\net7.0\ConsoleApp34.dll
+C:\Users\MelihÖcal\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\net7.0\refint\ConsoleApp34.dll
+C:\Users\MelihÖcal\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\net7.0\ConsoleApp34.pdb
+C:\Users\MelihÖcal\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\net7.0\ConsoleApp34.genruntimeconfig.cache
+C:\Users\MelihÖcal\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\net7.0\ref\ConsoleApp34.dll

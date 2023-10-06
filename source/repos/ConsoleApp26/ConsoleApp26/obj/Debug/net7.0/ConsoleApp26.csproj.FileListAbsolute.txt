@@ -1,0 +1,4 @@
+C:\Users\MelihÖcal\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\net7.0\ConsoleApp26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MelihÖcal\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\net7.0\ConsoleApp26.AssemblyInfoInputs.cache
+C:\Users\MelihÖcal\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\net7.0\ConsoleApp26.AssemblyInfo.cs
+C:\Users\MelihÖcal\source\repos\ConsoleApp26\ConsoleApp26\obj\Debug\net7.0\ConsoleApp26.csproj.CoreCompileInputs.cache

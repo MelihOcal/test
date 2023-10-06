@@ -1,0 +1,4 @@
+C:\Users\MelihÖcal\source\repos\Skyscraper\obj\Debug\net7.0\Skyscraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MelihÖcal\source\repos\Skyscraper\obj\Debug\net7.0\Skyscraper.AssemblyInfoInputs.cache
+C:\Users\MelihÖcal\source\repos\Skyscraper\obj\Debug\net7.0\Skyscraper.AssemblyInfo.cs
+C:\Users\MelihÖcal\source\repos\Skyscraper\obj\Debug\net7.0\Skyscraper.csproj.CoreCompileInputs.cache

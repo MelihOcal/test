@@ -1,0 +1,7 @@
+C:\Users\MelihÖcal\source\repos\Skyscraper\Skyscraper\bin\Debug\Skyscraper.exe.config
+C:\Users\MelihÖcal\source\repos\Skyscraper\Skyscraper\bin\Debug\Skyscraper.exe
+C:\Users\MelihÖcal\source\repos\Skyscraper\Skyscraper\bin\Debug\Skyscraper.pdb
+C:\Users\MelihÖcal\source\repos\Skyscraper\Skyscraper\obj\Debug\Skyscraper.csproj.AssemblyReference.cache
+C:\Users\MelihÖcal\source\repos\Skyscraper\Skyscraper\obj\Debug\Skyscraper.csproj.CoreCompileInputs.cache
+C:\Users\MelihÖcal\source\repos\Skyscraper\Skyscraper\obj\Debug\Skyscraper.exe
+C:\Users\MelihÖcal\source\repos\Skyscraper\Skyscraper\obj\Debug\Skyscraper.pdb

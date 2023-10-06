@@ -1,0 +1,14 @@
+C:\Users\MelihÖcal\source\repos\TherealSkyscraper\bin\Debug\net7.0\TherealSkyscraper.exe
+C:\Users\MelihÖcal\source\repos\TherealSkyscraper\bin\Debug\net7.0\TherealSkyscraper.deps.json
+C:\Users\MelihÖcal\source\repos\TherealSkyscraper\bin\Debug\net7.0\TherealSkyscraper.runtimeconfig.json
+C:\Users\MelihÖcal\source\repos\TherealSkyscraper\bin\Debug\net7.0\TherealSkyscraper.dll
+C:\Users\MelihÖcal\source\repos\TherealSkyscraper\bin\Debug\net7.0\TherealSkyscraper.pdb
+C:\Users\MelihÖcal\source\repos\TherealSkyscraper\obj\Debug\net7.0\TherealSkyscraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MelihÖcal\source\repos\TherealSkyscraper\obj\Debug\net7.0\TherealSkyscraper.AssemblyInfoInputs.cache
+C:\Users\MelihÖcal\source\repos\TherealSkyscraper\obj\Debug\net7.0\TherealSkyscraper.AssemblyInfo.cs
+C:\Users\MelihÖcal\source\repos\TherealSkyscraper\obj\Debug\net7.0\TherealSkyscraper.csproj.CoreCompileInputs.cache
+C:\Users\MelihÖcal\source\repos\TherealSkyscraper\obj\Debug\net7.0\TherealSkyscraper.dll
+C:\Users\MelihÖcal\source\repos\TherealSkyscraper\obj\Debug\net7.0\refint\TherealSkyscraper.dll
+C:\Users\MelihÖcal\source\repos\TherealSkyscraper\obj\Debug\net7.0\TherealSkyscraper.pdb
+C:\Users\MelihÖcal\source\repos\TherealSkyscraper\obj\Debug\net7.0\TherealSkyscraper.genruntimeconfig.cache
+C:\Users\MelihÖcal\source\repos\TherealSkyscraper\obj\Debug\net7.0\ref\TherealSkyscraper.dll
